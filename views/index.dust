@@ -4,6 +4,6 @@
     <title>Check me out.</title>
   </head>
   <body>
-    <p>I'm a {whatAmI} template.</p>
+    {+bodyContent/}
   </body>
 </html>
