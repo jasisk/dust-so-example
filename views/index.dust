@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Check me out.</title>
+  </head>
+  <body>
+    <p>I'm a {whatAmI} template.</p>
+  </body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "express": {
+    "view cache": false,
+    "view engine": "dust"
+  },
+
+  "view engines": {
+    "dust": {
+      "module": "adaro",
+      "renderer": {
+        "method": "dust",
+        "arguments": [{
+          "helpers": [ "helpers/compiled-templates" ]
+        }]
+      }
+    }
+  }
+}
