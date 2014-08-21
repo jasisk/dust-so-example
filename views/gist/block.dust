@@ -1,0 +1,13 @@
+{>"gist/layout"/}
+
+{<body}
+	<h1>REAL DUSTY</h1>
+	<ul>
+	{#TopNavigation}
+		<li>{Title}</li>
+	{/TopNavigation}
+	</ul>
+	{#Products}
+		{Name}
+	{/Products}
+{/body}

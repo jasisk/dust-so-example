@@ -1,2 +1,2 @@
-{>index/}
+{>layout/}
 {<bodyContent}<p>I'm a {whatAmI} template.</p>{/bodyContent}

@@ -6,4 +6,5 @@ A sample solution for [a StackOverflow question](http://stackoverflow.com/questi
 
 1. `npm i`
 2. `npm start`
-3. visit [http://localhost:8000](http://localhost:8000) and [http://localhost:8000/something-else](http://localhost:8000/something-else)
+3. visit [http://localhost:8000](http://localhost:8000) and [http://localhost:8000/pre](http://localhost:8000/pre)
+4. visit [http://localhost:8000/gist](http://localhost:8000/gist) and [http://localhost:8000/gist/pre](http://localhost:8000/gist/pre)

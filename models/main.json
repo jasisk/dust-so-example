@@ -1,0 +1,12 @@
+{
+  "TopNavigation": [
+    { "Title": "Nav1" },
+    { "Title": "Nav2" },
+    { "Title": "Nav3" }
+  ],
+  "Products": [
+    { "Name": "Product1" },
+    { "Name": "Product2" },
+    { "Name": "Product3" }
+  ]
+}
